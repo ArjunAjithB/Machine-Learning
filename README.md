@@ -1,4 +1,4 @@
-### README – Salary Prediction using Linear Regression
+### Salary Prediction using Linear Regression
 
 This Python program demonstrates a simple **machine learning model** for predicting salaries based on years of experience using **Linear Regression**.
 
